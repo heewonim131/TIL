@@ -1,5 +1,5 @@
 # 💡 Today I Learned (TIL)
-오늘 배운 것은 오늘 기록하기
+오늘 배운 건 오늘 정리하기
 
 ### Java
 ### AWS
