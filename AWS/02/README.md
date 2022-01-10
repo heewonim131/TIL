@@ -54,7 +54,7 @@ AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2 클릭하여 EC2 서비스에
 
   - [SSH 활성화 여부를 확인하고, 폴더 권한을 부여해야 한다.](https://www.overtop.co.kr/361)<br>
   
-  - keyPair 파일이 있는 경로로 이동하여 다음의 명령어를 입력한다.
+  - keyPair 파일이 있는 경로(경로에 한글이 포함되어 있으면 오류가 발생한다.)로 이동하여 다음의 명령어를 입력한다.
   ```
   ssh -i [키페어 이름].pem ec2-user@[퍼블릭 IPv4 주소]
   ```
@@ -67,4 +67,6 @@ AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2 클릭하여 EC2 서비스에
 ## 참고자료
 - [AWS 계정 생성하는 방법 by lainyzine](https://www.lainyzine.com/ko/article/how-to-create-an-amazon-web-services-account/)
 - [EC2 인스턴스 생성하기 by 꽁담](https://mozi.tistory.com/461?category=1154728)
+- [Windows PowerShell 실행하기 by 끔손](https://appia.tistory.com/409)
 - [EC2 인스턴스 접속하기 by AWS-in](https://www.overtop.co.kr/361)
+- [EC2 인스턴스 접속 시 오류 by 737](https://m.blog.naver.com/7-3-7/222017188839)
