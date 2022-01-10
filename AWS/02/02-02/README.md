@@ -39,3 +39,6 @@ AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2 클릭하여 EC2 서비스에
 ## 참고자료
 - [AWS 계정 생성하는 방법 by lainyzine](https://www.lainyzine.com/ko/article/how-to-create-an-amazon-web-services-account/)
 - [EC2 인스턴스 생성하기 by 꽁담](https://mozi.tistory.com/461?category=1154728)
+
+### 3. [EC2에 애플리케이션 배포하기](https://github.com/heewonim131/TIL/tree/main/AWS/02/02-03#ec2에-애플리케이션-배포하기)
+### 4. [EC2 자원 삭제하기](https://github.com/heewonim131/TIL/tree/main/AWS/02/02-04#ec2-자원-삭제하기)
