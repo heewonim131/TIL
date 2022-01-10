@@ -113,33 +113,47 @@ vi index.js
 Esc -> Shift + :(콜론) -> wq(저장하고 닫기) 입력 후 Enter를 쳐서 빠져나온다.
 
 ### 3-4) Node.js 앱 실행하기
-1. 터미널에서 실행
-    - 기존 터미널에서 index.js 파일을 로드한다.<br>
-    ```
-    node index.js
-    ```
-    <img src="https://user-images.githubusercontent.com/92259017/148740848-a87e9f25-ca8e-4c45-a417-ab3e75e75a18.png" style="width:70%; height:70%"/><br>
+### 터미널에서 실행
 
-    - 새로운 터미널을 실행하여 EC2 인스턴스 접속(본문 3-1) 후 다음 명령어로 index.js 파일 GET 요청<br>
-    ```
-    curl localhost:3000
-    ```
-    
-    - 다음과 같이 작성한 내용이 출력되는 것을 확인할 수 있다.<br>
-    <img src="https://user-images.githubusercontent.com/92259017/148740901-e4f7074e-3a82-4fe0-b58a-e304268ead05.png" style="width:70%; height:70%"/><br>
+  - 기존 터미널에서 index.js 파일을 로드한다.
+  ```
+  node index.js
+  ```
+  <img src="https://user-images.githubusercontent.com/92259017/148740848-a87e9f25-ca8e-4c45-a417-ab3e75e75a18.png" style="width:70%; height:70%"/><br>
 
-    <details>
-    <summary>port 연결 오류</summary><br>
-    curl 명령을 실행했을 때, port 연결 오류가 발생하는 경우<br><br>
-    error message:<br>
-    curl: (7) Failed to connect to localhost port 3000: Connection refused<br><br>
-    해결 방법: 기존 터미널에서 js 파일을 다시 로드해 본다.<br>
-    </details>
+  - 새로운 터미널을 실행하여 EC2 인스턴스에 접속한 뒤, (본문 3-1)<br>
+  아래의 명령어를 입력하여 index.js 파일을 GET 요청한다.<br>
+  ```
+  curl localhost:3000
+  ```
 
-2. Chrome 브라우저에서 실행
+  - 다음과 같이 작성한 내용이 출력되는 것을 확인할 수 있다.
 
+  <img src="https://user-images.githubusercontent.com/92259017/148740901-e4f7074e-3a82-4fe0-b58a-e304268ead05.png" style="width:70%; height:70%"/><br>
 
+  <details>
+  <summary>port 연결 오류</summary><br>
+  curl 명령을 실행했을 때, port 연결 오류가 발생하는 경우<br><br>
+  error message:<br>
+  curl: (7) Failed to connect to localhost port 3000: Connection refused<br><br>
+  해결 방법: 기존 터미널에서 js 파일을 다시 로드해 본다.<br>
+  </details>
 
+### Chrome 브라우저에서 실행
+
+  외부 브라우저에서 실행할 수 있도록 3000번 port를 오픈해주어야 한다.<br>
+  - 보안 탭의 보안 그룹 링크를 클릭한다.
+  <img src="https://user-images.githubusercontent.com/92259017/148744373-227acb9a-134d-4348-9eb3-0b386e9eae44.png" style="width:70%; height:70%"/>
+
+  - 인바운드 규칙 편집을 클릭한다.
+  <img src="https://user-images.githubusercontent.com/92259017/148744573-bdd82f14-4a73-4636-9015-45359ef40b38.png" style="width:70%; height:70%"/>
+
+  - 다음과 같이 규칙을 추가하고 저장한다.
+  <img src="https://user-images.githubusercontent.com/92259017/148745137-3bfaf89f-0227-4c3c-903f-cc4a02338835.png" style="width:70%; height:70%"/>
+
+  - [퍼블릭 IPv4 주소]:3000 페이지를 로드하면 index.js 파일이 잘 실행되는 것을 볼 수 있다.
+  <img src="https://user-images.githubusercontent.com/92259017/148746321-60a3b361-a7e8-44a4-99ae-8173fee8d037.png" style="width:70%; height:70%"/>
+  
 ## 4. EC2 자원 삭제하기
 
 ## 참고자료
@@ -148,3 +162,4 @@ Esc -> Shift + :(콜론) -> wq(저장하고 닫기) 입력 후 Enter를 쳐서 �
 - [Windows PowerShell 실행하기 by 끔손](https://appia.tistory.com/409)
 - [EC2 인스턴스 접속하기 by AWS-in](https://www.overtop.co.kr/361)
 - [EC2 연결 시 키페어 경로 오류 by 737](https://m.blog.naver.com/7-3-7/222017188839)
+- [[NodeJS] Terminal에서 node index.js를 치면 무슨일이 일어날까? by Byeongin Yoon](https://medium.com/@rpf5573/terminal%EC%97%90%EC%84%9C-node-index-js%EB%A5%BC-%EC%B9%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-af6c75ee4800)
