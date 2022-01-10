@@ -109,3 +109,5 @@ Esc -> Shift + :(콜론) -> wq(저장하고 닫기) 입력 후 Enter를 쳐서 �
 - [EC2 인스턴스 접속하기 by AWS-in](https://www.overtop.co.kr/361)
 - [EC2 연결 시 키페어 경로 오류 by 737](https://m.blog.naver.com/7-3-7/222017188839)
 - [[NodeJS] Terminal에서 node index.js를 치면 무슨일이 일어날까? by Byeongin Yoon](https://medium.com/@rpf5573/terminal%EC%97%90%EC%84%9C-node-index-js%EB%A5%BC-%EC%B9%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-af6c75ee4800)
+
+### 4. [EC2 자원 삭제하기](https://github.com/heewonim131/TIL/tree/main/AWS/02/02-04#ec2-자원-삭제하기)
