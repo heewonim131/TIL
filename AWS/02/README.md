@@ -4,7 +4,7 @@
   2. [EC2에 자원 생성하기](https://github.com/heewonim131/TIL/tree/main/AWS/02#2-EC2에-자원-생성하기)
   3. [EC2에 애플리케이션 배포하기](https://github.com/heewonim131/TIL/tree/main/AWS/02#3-EC2에-애플리케이션-배포하기)
   4. [EC2 자원 삭제하기](https://github.com/heewonim131/TIL/tree/main/AWS/02#4-EC2-자원-삭제하기)
-  5. [참고자료](https://github.com/heewonim131/TIL/tree/main/AWS/02#)
+  5. [참고자료](https://github.com/heewonim131/TIL/tree/main/AWS/02#참고자료)
 
 ## 1. EC2란?
 EC2는 Elastic Compute Cloud의 약자로, 물리적 자원을 제공하는 AWS의 대표적인 서비스이다.<br>
