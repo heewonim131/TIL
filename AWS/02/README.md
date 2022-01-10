@@ -7,7 +7,7 @@ CPU, 메모리 등 자원을 필요한 만큼 대여하여 서버를 구축하�
 
 ## 2. EC2에 자원 생성하기
 ### 2-1) 계정 생성
-먼저 [AWS 홈페이지](https://aws.amazon.com/)에 접속하여 계정을 생성한다.<br>
+먼저 [AWS 홈페이지](https://aws.amazon.com/)에 접속하여 [계정을 생성한다.](https://www.lainyzine.com/ko/article/how-to-create-an-amazon-web-services-account/)<br>
 
 ### 2-2) EC2 서비스 접속
 우측 상단 메뉴에서 내 계정 > AWS Management Console 클릭하여 AWS 관리 콘솔에 로그인한다.<br>
@@ -65,5 +65,6 @@ AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2 클릭하여 EC2 서비스에
 
 
 ## 참고자료
-- [AWS 계정 생성하는 방법](https://www.lainyzine.com/ko/article/how-to-create-an-amazon-web-services-account/)
-- [EC2 인스턴스 접속하기](https://www.overtop.co.kr/361)
+- [AWS 계정 생성하는 방법 by lainyzine](https://www.lainyzine.com/ko/article/how-to-create-an-amazon-web-services-account/)
+- [EC2 인스턴스 생성하기 by 꽁담](https://mozi.tistory.com/461?category=1154728)
+- [EC2 인스턴스 접속하기 by AWS-in](https://www.overtop.co.kr/361)
