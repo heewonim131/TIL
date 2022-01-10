@@ -33,7 +33,7 @@ AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2 클릭하여 EC2 서비스에
 ## 7) 인스턴스 생성 완료
 인스턴스 생성이 완료되었다.<br>
 <img src="https://user-images.githubusercontent.com/92259017/148719267-4f13aab0-2019-4134-b9e0-b13d01c613fb.png" style="width:70%; height:70%"/>
-인스턴스 Name이 비었으므로 Heewon으로 설정해 주었다.<br><br>
+<br>인스턴스 Name이 비었으므로 Heewon으로 설정해 주었다.<br><br>
 <img src="https://user-images.githubusercontent.com/92259017/148719329-073a310a-71a2-4ed9-8da0-92a224eaaab7.png" style="width:70%; height:70%"/>
 
 ## 참고자료
