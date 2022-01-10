@@ -69,4 +69,4 @@ AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2 클릭하여 EC2 서비스에
 - [EC2 인스턴스 생성하기 by 꽁담](https://mozi.tistory.com/461?category=1154728)
 - [Windows PowerShell 실행하기 by 끔손](https://appia.tistory.com/409)
 - [EC2 인스턴스 접속하기 by AWS-in](https://www.overtop.co.kr/361)
-- [EC2 인스턴스 접속 시 오류 by 737](https://m.blog.naver.com/7-3-7/222017188839)
+- [EC2 연결 시 키페어 경로 오류 by 737](https://m.blog.naver.com/7-3-7/222017188839)
