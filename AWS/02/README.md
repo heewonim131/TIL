@@ -5,7 +5,7 @@ EC2는 Elastic Compute Cloud의 약자로, 물리적 자원을 제공하는 AWS�
 CPU, 메모리 등 자원을 필요한 만큼 대여하여 서버를 구축하고, 내부에 논리적인 애플리케이션을 배포할 수 있는 공간이다.
 
 ## EC2에 자원 생성하기
-먼저 AWS 홈페이지(https://aws.amazon.com/)에 접속하여 계정 생성을 생성한다.<br>
+먼저 [AWS 홈페이지](https://aws.amazon.com/)에 접속하여 계정 생성을 생성한다.<br>
 우측 상단 메뉴에서 내 계정 > AWS Management Console 클릭하여 AWS 관리 콘솔에 로그인한다.<br>
 
 AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2<br>
