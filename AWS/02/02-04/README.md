@@ -1,6 +1,7 @@
 # EC2 자원 삭제하기
 
 ### 1. 다운로드 받았던 키페어.pem 파일 삭제
+<img src="https://user-images.githubusercontent.com/92259017/148953857-a875d139-a5fd-4929-a968-8a904f5602fc.png" style="width:70%; height:70%">
 
 ### 2. AWS 콘솔에서 인스턴스 종료
 <img src="https://user-images.githubusercontent.com/92259017/148950683-a4593782-cf65-4759-ac07-9fb7601c69aa.png" style="width:70%; height:70%">
