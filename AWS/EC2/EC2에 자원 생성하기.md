@@ -43,6 +43,7 @@ AWS 서비스 > 모든 서비스 > 컴퓨팅 > EC2 클릭하여 EC2 서비스에
 <img src="https://user-images.githubusercontent.com/92259017/148719329-073a310a-71a2-4ed9-8da0-92a224eaaab7.png" style="width:70%; height:70%"/>
 
 ## 참고자료
+- [나도 AWS에 서버 구축해보자! by 손당근](https://www.inflearn.com/course/aws-서버-구축-시작)
 - [AWS 계정 생성하는 방법 by lainyzine](https://www.lainyzine.com/ko/article/how-to-create-an-amazon-web-services-account/)
 - [EC2 인스턴스 생성하기 by 꽁담](https://mozi.tistory.com/461?category=1154728)
 
