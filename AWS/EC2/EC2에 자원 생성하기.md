@@ -1,4 +1,10 @@
 # EC2에 자원 생성하기
+
+## EC2란?
+EC2는 Elastic Compute Cloud의 약자로, 물리적 자원을 제공하는 AWS의 대표적인 서비스이다.<br>
+CPU, 메모리 등 자원을 필요한 만큼 대여하여 서버를 구축하고, 내부에 논리적인 애플리케이션을 배포할 수 있는 공간이다.<br>
+<img src="https://user-images.githubusercontent.com/92259017/148725792-b6c69e56-a72a-4f3c-ada9-c834acb087e6.png" style="width:50%; height:50%"/>
+
 ## 1) 계정 생성
 먼저 [AWS 홈페이지](https://aws.amazon.com/)에 접속하여 [계정을 생성한다.](https://www.lainyzine.com/ko/article/how-to-create-an-amazon-web-services-account/)<br>
 
