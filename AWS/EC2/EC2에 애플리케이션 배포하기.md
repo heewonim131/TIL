@@ -105,6 +105,7 @@ Esc -> Shift + :(콜론) -> wq(저장하고 닫기) 입력 후 Enter를 쳐서 �
   <img src="https://user-images.githubusercontent.com/92259017/148746321-60a3b361-a7e8-44a4-99ae-8173fee8d037.png" style="width:70%; height:70%"/>
 
 ## 참고자료
+- [나도 AWS에 서버 구축해보자! by 손당근](https://www.inflearn.com/course/aws-서버-구축-시작)
 - [Windows PowerShell 실행하기 by 끔손](https://appia.tistory.com/409)
 - [EC2 인스턴스 접속하기 by AWS-in](https://www.overtop.co.kr/361)
 - [EC2 연결 시 키페어 경로 오류 by 737](https://m.blog.naver.com/7-3-7/222017188839)
