@@ -25,5 +25,5 @@
 - [데코레이터 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4.md#decorator-pattern)
 - [프록시 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4.md#proxy-pattern)
 - [파사드 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%ED%8C%8C%EC%82%AC%EB%93%9C%20%ED%8C%A8%ED%84%B4.md#facade-pattern)
-- [옵저버 패턴]
-- [전략 패턴]
+- [옵저버 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md#observer-pattern)
+- [전략 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%EC%A0%84%EB%9E%B5%20%ED%8C%A8%ED%84%B4.md#strategy-pattern)
