@@ -22,5 +22,8 @@
 - [디자인 패턴이란](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80.md#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
 - [싱글톤 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md#singleton-pattern)
 - [어댑터 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md#adaptor-pattern)
-- [프록시 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4.md#proxy-pattern)
 - [데코레이터 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4.md#decorator-pattern)
+- [프록시 패턴](https://github.com/heewonim131/TIL/blob/main/Design%20pattern/%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4.md#proxy-pattern)
+- [파사드 패턴]
+- [옵저버 패턴]
+- [전략 패턴]
