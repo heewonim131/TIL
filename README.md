@@ -8,7 +8,7 @@
 
 ## Web
 - [웹 개발이란](https://github.com/heewonim131/TIL/blob/main/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80.md#%EC%9B%B9web-%EC%9D%B4%EB%9E%80)
-- [REST](
+- [REST](https://github.com/heewonim131/TIL/blob/main/Web/REST.md#rest)
 
 ## AWS
 - Cloud
