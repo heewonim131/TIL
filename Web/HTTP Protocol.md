@@ -58,7 +58,8 @@ dto를 생성하여 필드를 정의하고 dto 객체를 받는다.<br>
 **PathVariable** : URL Path Variable Parsing<br>
 ![image](https://user-images.githubusercontent.com/92259017/150683802-fcb2c237-82ec-4ebe-b73a-81bde913371a.png)
 
-  JsonNaming : dto에 class json naming<br>
+  JsonNaming : class에 json naming. Naming 전략을 이용해 직렬화 가능.<br>
+  SnakeCaseStrategy : 스네이크 케이스 전략. 언더바로 단어 연결. carList -> car_list<br>
   ![image](https://user-images.githubusercontent.com/92259017/150683734-5ff88d00-2748-4840-ab6b-009533f8646f.png)
 
 ## DELETE
