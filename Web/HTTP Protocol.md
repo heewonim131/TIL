@@ -82,4 +82,11 @@ dto를 생성하여 필드를 정의하고 dto 객체를 받는다.<br>
 ![image](https://user-images.githubusercontent.com/92259017/150667785-da99a48c-c45c-4961-b3ba-697f8b2b62fd.png)
 
 ## Response 내려주기
-![image](https://user-images.githubusercontent.com/92259017/150680654-e36b74cb-345b-4ce3-bfcf-6b3b6560b912.png)
+- **ResponseEntity** : Body의 내용을 Object로 설정 상황에 따라서 Http Status Code 설정<br>
+![image](https://user-images.githubusercontent.com/92259017/150684513-ada4a5e4-5101-47b8-82b6-84f405e9ba5d.png)
+
+- **ResponseBody** : RestController가 아닌 곳(Controller)에서 Json 응답을 내릴 때<br>
+![image](https://user-images.githubusercontent.com/92259017/150684653-6bae45dc-04f5-4533-bb99-2685081a45c0.png)
+
+- **String** : 일반 Text Type 응답
+- **Object** : 자동으로 Json 변환되어 응답 상태값은 항상 200 OK
