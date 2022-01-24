@@ -5,6 +5,7 @@
 
 ## Spring
 - [빌드 도구 Maven과 Gradle](https://github.com/heewonim131/TIL/blob/main/Spring/%EB%B9%8C%EB%93%9C%20%EB%8F%84%EA%B5%AC%20Maven%EA%B3%BC%20Gradle.md#%EB%B9%8C%EB%93%9C-build)
+- [스프링 부트 어노테이션](https://github.com/heewonim131/TIL/blob/main/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md#%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-annotation%EC%9D%98-%EC%9D%98%EB%AF%B8)
 
 ## Web
 - [웹 개발이란](https://github.com/heewonim131/TIL/blob/main/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80.md#%EC%9B%B9web-%EC%9D%B4%EB%9E%80)
