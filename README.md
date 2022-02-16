@@ -14,6 +14,7 @@
 - [REST](https://github.com/heewonim131/TIL/blob/main/Web/REST.md#rest)
 - [URI 설계 패턴](https://github.com/heewonim131/TIL/blob/main/Web/URI%20%EC%84%A4%EA%B3%84%20%ED%8C%A8%ED%84%B4.md#uri-uniform-resource-identifier)
 - [HTTP Protocol](https://github.com/heewonim131/TIL/blob/main/Web/HTTP%20Protocol.md#http-hypertext-transfer-protocol)
+- [CORS](https://github.com/heewonim131/TIL/blob/main/Web/CORS.md#%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 
 ## AWS
 - Cloud
