@@ -8,6 +8,7 @@
 - [스프링 부트 어노테이션](https://github.com/heewonim131/TIL/blob/main/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md)
 - [Validation](https://github.com/heewonim131/TIL/blob/main/Spring/Validation.md)
 - [Swagger](https://github.com/heewonim131/TIL/blob/main/Spring/Swagger.md)
+- [](https://github.com/heewonim131/TIL/blob/main/Spring/JPA.md)
 
 ## DB
 - [정규화와 반정규화](https://github.com/heewonim131/TIL/blob/main/DB/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
