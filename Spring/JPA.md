@@ -36,3 +36,7 @@ JPA는 애플리케이션과 JDBC 사이에서 동작한다.
 자바 언어를 위한 ORM 프레임워크로, JPA 인터페이스를 구현한 구현체의 한 종류.
 - 내부적으로 JDBC API를 사용한다. (Hibernate가 지원하는 메서드 내부에서는 JDBC API가 동작하고 있으며, 단지 개발자가 직접 SQL을 직접 작성하지 않을 뿐이다.)
 - HQL(Hibernate Query Language)이라 불리는 매우 강력한 쿼리 언어를 포함하고 있다.
+
+## 참고
+- [[DB] 하이버네이트(Hibernate)란? by 검프](https://livenow14.tistory.com/70)
+- [JPA는 도대체 뭘까? (orm, 영속성, hibernate, spring-data-jpa) by adam2](https://velog.io/@adam2/JPA%EB%8A%94-%EB%8F%84%EB%8D%B0%EC%B2%B4-%EB%AD%98%EA%B9%8C-orm-%EC%98%81%EC%86%8D%EC%84%B1-hibernate-spring-data-jpa)
