@@ -9,11 +9,13 @@
 - [Validation](https://github.com/heewonim131/TIL/blob/main/Spring/Validation.md#validation)
 - [Swagger](https://github.com/heewonim131/TIL/blob/main/Spring/Swagger.md#swagger)
 
+## DB
+- [정규화와 반정규화](https://github.com/heewonim131/TIL/blob/main/DB/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md#%EC%A0%95%EA%B7%9C%ED%99%94-normalization)
+
 ## Web
 - [웹 개발이란](https://github.com/heewonim131/TIL/blob/main/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80.md#%EC%9B%B9web-%EC%9D%B4%EB%9E%80)
 - [REST API](https://github.com/heewonim131/TIL/blob/main/Web/REST%20API.md#rest-api)
 - [HTTP Protocol](https://github.com/heewonim131/TIL/blob/main/Web/HTTP%20Protocol.md#http-hypertext-transfer-protocol)
-- [CORS](https://github.com/heewonim131/TIL/blob/main/Web/CORS.md#%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 
 ## AWS
 - Cloud
