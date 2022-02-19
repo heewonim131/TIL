@@ -63,4 +63,6 @@ payload에는 클레임이라는 토큰에 필요한 정보를 key-value의 형�
 - 이 경우, 토큰과 사용자 정보를 관리하는 방법으로 다음과 같은 방법들을 사용하기도 한다.
   - redis, hazelcast, db 저장
 
-
+## 참고
+- [[Server] JWT(Json Web Token)란? by 망나니개발자](https://mangkyu.tistory.com/56)
+- [JWT(Json Web Token) 알아가기 by ](https://brunch.co.kr/@jinyoungchoi95/1)
