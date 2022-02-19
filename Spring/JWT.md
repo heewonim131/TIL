@@ -65,4 +65,4 @@ payload에는 클레임이라는 토큰에 필요한 정보를 key-value의 형�
 
 ## 참고
 - [[Server] JWT(Json Web Token)란? by 망나니개발자](https://mangkyu.tistory.com/56)
-- [JWT(Json Web Token) 알아가기 by ](https://brunch.co.kr/@jinyoungchoi95/1)
+- [JWT(Json Web Token) 알아가기 by 최진영](https://brunch.co.kr/@jinyoungchoi95/1)
