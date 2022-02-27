@@ -2,18 +2,19 @@
 오늘 배운 건 오늘 정리하기
 
 ## Java
+- [Optional 생성과 접근, Optional 메서드](https://github.com/heewonim131/TIL/blob/main/Java/Optional.md)
 
 ## Spring
 - [빌드 도구 Maven과 Gradle](https://github.com/heewonim131/TIL/blob/main/Spring/%EB%B9%8C%EB%93%9C%20%EB%8F%84%EA%B5%AC%20Maven%EA%B3%BC%20Gradle.mdd)
 - [스프링 부트 어노테이션](https://github.com/heewonim131/TIL/blob/main/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md)
-- [Validation](https://github.com/heewonim131/TIL/blob/main/Spring/Validation.md)
+- [Spring Validation 유효성 검증](https://github.com/heewonim131/TIL/blob/main/Spring/Validation.md)
 - [Swagger](https://github.com/heewonim131/TIL/blob/main/Spring/Swagger.md)
-- [JPA](https://github.com/heewonim131/TIL/blob/main/Spring/JPA.md)
-- [JWT](https://github.com/heewonim131/TIL/blob/main/Spring/JWT.md)
+- [JPA란 - JPA, Hibernate](https://github.com/heewonim131/TIL/blob/main/Spring/JPA.md)
+- [JWT(Json Web Token)이란](https://github.com/heewonim131/TIL/blob/main/Spring/JWT.md)
 
 ## DB
 - [정규화와 반정규화](https://github.com/heewonim131/TIL/blob/main/DB/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
-- [ORM](https://github.com/heewonim131/TIL/blob/main/DB/ORM.md)
+- [ORM (Object-relational mapping, 객체 관계 매핑)](https://github.com/heewonim131/TIL/blob/main/DB/ORM.md)
 
 ## Web
 - [웹 개발이란](https://github.com/heewonim131/TIL/blob/main/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80.md)
