@@ -4,6 +4,7 @@
 ## Java
 - [Optional 생성과 접근, Optional 메서드](https://github.com/heewonim131/TIL/blob/main/Java/Optional.md)
 - [자바의 메모리 구조](https://github.com/heewonim131/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
+- [추상클래스와 인터페이스](https://github.com/heewonim131/TIL/blob/main/Java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 
 ## Spring
 - [빌드 도구 Maven과 Gradle](https://github.com/heewonim131/TIL/blob/main/Spring/%EB%B9%8C%EB%93%9C%20%EB%8F%84%EA%B5%AC%20Maven%EA%B3%BC%20Gradle.mdd)
