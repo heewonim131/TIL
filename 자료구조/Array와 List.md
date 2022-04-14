@@ -1,4 +1,4 @@
-## Array(배열)
+## Array
 ```
 int[] arr = new int[5];
 ```
@@ -15,12 +15,15 @@ int[] arr = new int[5];
 - 한 번 만들어진 공간은 크기가 고정된다.
 - 미리 공간을 확보해놓고 써야 한다.
 
-> 유연하지가 못하네..  
-> 미리 몇 개가 필요한지 몰라도 쓸 수 있으면 좋을텐데..  
-> 필요에 따라 크기가 늘어나거나 줄어들면 좋을텐데..
-
 ## List
-![image](https://user-images.githubusercontent.com/92259017/163311154-457e7544-092e-4163-8aaa-ec0b0a19cdef.png)
+List는 유연하지 못한 Array의 단점들을 보완한다.
+```
+LinkedList<Integer> list = new LinkedList<>();
+```
+![image](https://user-images.githubusercontent.com/92259017/163311154-457e7544-092e-4163-8aaa-ec0b0a19cdef.png)  
+- List를 출력하면 List 내용이 출력된다.
+- 특정 위치에 요소를 추가할 수 있다.
+- 특정 위치의 요소를 삭제할 수 있다.
 
 ### List의 장점
 - 여러개의 데이터를 한꺼번에 다룰 수 있다.
