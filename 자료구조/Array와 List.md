@@ -16,14 +16,25 @@ int[] arr = new int[5];
 - 미리 공간을 확보해놓고 써야 한다.
 
 ## List
-List는 유연하지 못한 Array의 단점들을 보완한다.
+List는 유연하지 못한 Array의 단점들을 보완한다.  
+List 인터페이스를 구현한 클래스로 LinkedList, ArrayList, Vector 등이 있다.
 ```
-LinkedList<Integer> list = new LinkedList<>();
-```
-![image](https://user-images.githubusercontent.com/92259017/163311154-457e7544-092e-4163-8aaa-ec0b0a19cdef.png)  
+List<Integer> list = new LinkedList<>();
+List<Integer> list = new ArrayList<>();
+List<Integer> list = new Vector<>();
+...
+``` 
 - List를 출력하면 List 내용이 출력된다.
 - 특정 위치에 요소를 추가할 수 있다.
 - 특정 위치의 요소를 삭제할 수 있다.
+
+### ArrayList와 Vector의 차이?
+- ArrayList
+  - initialCapacity를 정한 후, 데이터가 추가되면 용량이 늘어난다.
+  - not syncronized. 값을 추가/삭제해야 하지만, thread-safe한 구현이 필요하지 않을 때 사용한다.
+- Vector
+  - initialCapacity와 capacityIncrement 값을 지정하여, 용량이 찰 때마다 Increment만큼 늘어난다.
+  - syncronized. 값을 추가/삭제할 때 동기화되어 멀티쓰레드 환경에서 thread-safe한 구현이 가능하다.
 
 ### 👍 List의 장점
 - 여러개의 데이터를 한꺼번에 다룰 수 있다.
