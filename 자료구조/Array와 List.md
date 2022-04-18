@@ -15,6 +15,8 @@ int[] arr = new int[5];
 - 한 번 만들어진 공간은 크기가 고정된다.
 - 미리 공간을 확보해놓고 써야 한다.
 
+<br>
+
 ## List
 List는 유연하지 못한 Array의 단점들을 보완한다.  
 List 인터페이스를 구현한 클래스로 LinkedList, ArrayList, Vector 등이 있다.
@@ -45,6 +47,8 @@ List<Integer> list = new Vector<>();
 ### 👎 List의 단점
 - 첫 번째 위치로부터 index로 목표위치를 알려면 한 칸, 한 칸 이동하면서 찾아야 한다.
 - Array에 비해 요소를 찾는 속도가 느리다
+
+<br>
 
 ## 결론
 Array는 인덱스로 빠르게 읽기는 좋은데 유연하지 못하다.  
