@@ -24,3 +24,15 @@ Map<String, Integer> map = new Hashtable<>();
 - `put(key, value)` : 데이터 추가
 - `get(key)` : 데이터 읽기
 - `remove(key)` : 데이터 삭제
+
+<br>
+
+## Set
+```
+Set<Integer> set = new HashSet<>();
+Set<Integer> set = new TreeSet<>();
+...
+```
+- 선형 데이터 구조 + 탐색 알고리즘
+- 중복된 값을 허용하지 않는다.
+- 순서를 보장하지 않는다.
