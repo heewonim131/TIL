@@ -20,7 +20,7 @@
 
 ## 자료구조
 - [Array와 List](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Array%EC%99%80%20List.md)
-- [Map](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Map.md)
+- [Map과 Set](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Map%EA%B3%BC%20Set.md)
 
 ## Web
 - [웹 개발이란](https://github.com/heewonim131/TIL/blob/main/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80.md)
