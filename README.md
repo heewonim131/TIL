@@ -18,6 +18,10 @@
 - [정규화와 반정규화](https://github.com/heewonim131/TIL/blob/main/DB/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
 - [ORM (Object-relational mapping, 객체 관계 매핑)](https://github.com/heewonim131/TIL/blob/main/DB/ORM.md)
 
+## 자료구조
+- [Array와 List](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Array%EC%99%80%20List.md)
+- [Map](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Map.md)
+
 ## Web
 - [웹 개발이란](https://github.com/heewonim131/TIL/blob/main/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80.md)
 - [REST API](https://github.com/heewonim131/TIL/blob/main/Web/REST%20API.md)
