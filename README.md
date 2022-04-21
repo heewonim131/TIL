@@ -22,6 +22,7 @@
 - [Array와 List](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Array%EC%99%80%20List.md)
 - [Map과 Set](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Map%EA%B3%BC%20Set.md)
 - [Stack과 Queue](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Stack%EA%B3%BC%20Queue.md)
+- [선형 탐색과 이진 탐색](https://github.com/heewonim131/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%84%A0%ED%98%95%20%ED%83%90%EC%83%89%EA%B3%BC%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
 
 ## Web
 - [웹 개발이란](https://github.com/heewonim131/TIL/blob/main/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80.md)
